@@ -17,7 +17,8 @@ I build systems end to end: from order-book deep learning on a multi-node GPU cl
 - **AeroForge**: aerospace analysis platform (airfoil and CFD workflows, stability, trim, weight and balance). *Private.*
 - **[MacroStrategy](https://github.com/njliautaud/MacroStrategy)**: macro-structural alpha engine: regime-aware symbolic regression (genetic programming) over cross-asset flow, macro and commodity-linkage features, with walk-forward validation.
 - **[QuantTimeCloud](https://github.com/njliautaud/QuantTimeCloud)**: multi-node ES Level-3 (MBO) research suite: Databento ingest, Ray cluster, cross-platform node management, auto-sync, and Prometheus/Grafana monitoring. The precursor to Lvl3Quant.
-- **AI-HedgeFund series**: earlier LLM-assisted trading research that led to Lvl3Quant. *Private.*
+- **[AI-HedgeFund](https://github.com/njliautaud/AI-HedgeFund)**: multi-agent equity research framework: investor-persona agents, quant strategies, portfolio optimization, risk analytics and an LLM decision layer (2025).
+- **[AI-HedgeFund-2](https://github.com/njliautaud/AI-HedgeFund-2)**: agentic LLM market-research console: LangChain manager/worker agents, 20+ data tools, a catalyst-driven swing-trading pipeline and ML/RL experiments (2025).
 - **[cda3103Bonus](https://github.com/njliautaud/cda3103Bonus)**: cache simulator in C (computer organization coursework).
 
 ## Toolbox
