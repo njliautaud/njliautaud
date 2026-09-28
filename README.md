@@ -15,7 +15,6 @@ I build systems end to end: from order-book deep learning on a multi-node GPU cl
 ## Other work
 
 - **AeroForge**: aerospace analysis platform (airfoil and CFD workflows, stability, trim, weight and balance). *Private.*
-- **DroneTelemetry**: drone telemetry and RC-override link with failsafe logic. *Private.*
 - **MacroStrategy, QuantTime, AI-HedgeFund series**: earlier systematic-trading and market-data projects that led to Lvl3Quant. *Private.*
 - **[cda3103Bonus](https://github.com/njliautaud/cda3103Bonus)**: cache simulator in C (computer organization coursework).
 
